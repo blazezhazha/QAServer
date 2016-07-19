@@ -35,6 +35,3 @@ Use the domain knowledge graph, address the question more specific.
 
 ## Mention
 Thank CKBoss(God.Q), provide the tornado templete.
-
-## Connect
-ICA fssqawj fssqawj@gmail.com
